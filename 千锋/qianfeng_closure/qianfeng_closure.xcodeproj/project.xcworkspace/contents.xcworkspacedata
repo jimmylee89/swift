@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../ProtocolDemo/ProtocolDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../ClassDemo/ClassDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../StructureDemo/StructureDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../EnumDemo/EnumDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "self:qianfeng_closure.xcodeproj">
+   </FileRef>
+</Workspace>
